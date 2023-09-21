@@ -1,6 +1,7 @@
 # School-Management-System
 This is a complete Desktop Java Application designed to manage an institutes majorly universities containing multi tabs and forms 
-allowing the school administrator(s) to authenticate into the system that they are able to perform different tasks.
+allowing the school administrator(s) to authenticate into the system that they are able to perform different tasks and attached to it 
+is the database that can be manuplated.
 <h3>Motivation</h3>
 The need to easy the management of schools through automating the tasks of grading, storing student scores and many others.
 <h3>Capabilites</h3>
